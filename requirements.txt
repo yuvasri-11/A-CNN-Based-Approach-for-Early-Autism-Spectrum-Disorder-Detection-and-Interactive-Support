@@ -1,0 +1,7 @@
+flask
+tensorflow
+numpy
+pillow
+opencv-python
+Flask-SQLAlchemy
+Flask-Login
