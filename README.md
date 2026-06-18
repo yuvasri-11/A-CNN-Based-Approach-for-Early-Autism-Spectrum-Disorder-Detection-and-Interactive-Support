@@ -1,0 +1,2 @@
+# A-CNN-Based-Approach-for-Early-Autism-Spectrum-Disorder-Detection-and-Interactive-Support
+A CNN-Based Approach for Early Autism Spectrum Disorder Detection and Interactive Support uses Convolutional Neural Networks (CNNs) to identify early signs of Autism Spectrum Disorder from input data. The system provides accurate predictions and interactive support to assist caregivers and healthcare professionals in early intervention.
